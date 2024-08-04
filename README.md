@@ -1,6 +1,5 @@
-# Shellathon Examples: 
-Based on [example.py]([https://example.com](https://github.com/garibyta/shellathon/blob/main/example.py)) script
-
+# Shellathon CLI Usage Examples
+Based on [example.py](https://github.com/garibyta/shellathon/blob/main/example.py) script.
 
 ## No Parameters Example
 
